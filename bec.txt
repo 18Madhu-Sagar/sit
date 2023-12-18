@@ -1,0 +1,4 @@
+Today is mondays 
+It is raining 
+All mondays are working days
+Therefore today is working day
